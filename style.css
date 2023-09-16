@@ -1,0 +1,52 @@
+
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+
+
+.profile{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    flex-direction: column;
+ 
+    
+}
+.image img{
+    
+    border: 1px solid #ddd;
+  border-radius: 4px;
+ padding: 5px;
+ text-align: center;
+ display: block;
+ margin-inline: auto;
+ 
+ width: 55%;
+ 
+
+}
+.projects{
+    color: red;
+    height: 20px;
+}
+
+.about{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 3%;
+    float: left;
+    font-style: italic;
+    color:blueviolet;
+   margin-left: 20px;
+   text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+
